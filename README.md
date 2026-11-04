@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 🎓 B.Sc. in Computer Science from Kabul University (2022 - 2026).<br>- 🧠 Thesis Project: Text-based social media Sarcasm detection in Dari language using ML and DL (Dataset of 6,046 instances, optimized using SGD and ParsBERT).<br>- 💼 Focus Areas: Full-Stack Web Development, Natural Language Processing (NLP), and Data Analytics.<br>- 🌱 Always Learning: Advanced Deep Learning architectures and modern web frameworks.<br>
+I'm a Computer Science graduate from Kabul University with a strong passion for software development, artificial intelligence, and building innovative technology solutions.<br>I enjoy turning ideas into practical applications, combining modern web technologies with intelligent data-driven solutions.
 
 
 # 💻 Tech Stack:
