@@ -1,61 +1,18 @@
-# Hi there 👋, I'm Masih Sayeedi
+# 💫 About Me:
+ - 🎓 B.Sc. in Computer Science from Kabul University (2022 - 2026).<br>- 🧠 Thesis Project: Text-based social media Sarcasm detection in Dari language using ML and DL (Dataset of 6,046 instances, optimized using SGD and ParsBERT).<br>- 💼 Focus Areas: Full-Stack Web Development, Natural Language Processing (NLP), and Data Analytics.<br>- 🌱 Always Learning: Advanced Deep Learning architectures and modern web frameworks.<br>
 
-A Computer Science graduate from Kabul University with broad expertise across **Web Development** and **Artificial Intelligence**. Proficient in building web applications using PHP, Laravel, and React, alongside modern UI design using Tailwind CSS and Bootstrap. Solidly grounded in Python for Data Analysis, Machine Learning, Deep Learning, and Data Mining, backed by strong database management skills in MySQL and Oracle. Ready to adapt and deliver comprehensive technical solutions.
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MasihSayeedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MasihSayeedi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MasihSayeedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧠 About Me
-- 🎓 **Education:** Bachelor of Computer Science (B.Sc.) - Kabul University (2022 - 2026)
-- 📊 **Thesis:** Text-based social media Sarcasm detection in Dari language using ML and DL techniques
-  - *Developed an end-to-end NLP framework; curated and manually labeled a dataset of 6,046 instances.*
-  - *Evaluated 15 architectures: SGD achieved 75.27% F1 score, and ParsBERT yielded the highest overall F1 score of 77.16%.*
-- 🗣️ **Languages:** Dari (Native) | English (C1 - Advanced) | Pashto (B2 - Intermediate)
-
----
-
-### 🌐 Socials
-<p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MasihSayeedi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-
-#### 🌐 Web Development & UI Design
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="Laravel" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="Tailwind" />
-  <img src="https://shields.io" alt="Bootstrap" />
-</p>
-
-#### 🧠 AI, Machine Learning & Analytics
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io🧠-blue?style=flat" alt="ML" />
-  <img src="https://shields.io👁️-orange?style=flat" alt="DL" />
-  <img src="https://shields.io⛏️-green?style=flat" alt="Data Mining" />
-</p>
-
-#### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Oracle" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</p>
-
----
-
-### 📊 GitHub Stats :
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
